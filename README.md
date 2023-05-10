@@ -12,10 +12,10 @@ A simple example of conversions
 
 Example input and output
 
-Input = 00110110
-Output = Sa Ta So To
+    Input = 00110110
+    Output = Sa Ta So To
 
 Additional Example
 
-Input = 00110000111011000110
-Output = Sa Ta Sa Sa Ta To Ta Sa So To
+    Input = 00110000111011000110
+    Output = Sa Ta Sa Sa Ta To Ta Sa So To
