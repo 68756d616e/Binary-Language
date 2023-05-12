@@ -3,6 +3,8 @@ A binary language to be spoken and heard
 
 The current general purpose is to convert binary numbers into text (words)
 
+The example below converts to bits of binary
+
 **A simple example of conversions**
 
     00 = Sa
@@ -25,3 +27,5 @@ The current general purpose is to convert binary numbers into text (words)
 - Seperate the sequence of segments of 2
 - Convert the binary into text
 - Output the result into segments of 2
+
+The example below converts 4 bits of binary
